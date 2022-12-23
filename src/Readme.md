@@ -4,3 +4,5 @@ TODO:
 - add a new funcion for user input..
 
 Changed to Remote-Repo
+
+- This post is added as dev1..
